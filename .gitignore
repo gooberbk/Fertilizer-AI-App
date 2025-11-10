@@ -1,0 +1,8 @@
+# Fichiers système
+.DS_Store
+__pycache__/
+*.pyc
+
+# Fichiers d'IDE
+.vscode/
+.idea/
